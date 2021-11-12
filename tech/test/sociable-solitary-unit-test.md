@@ -30,7 +30,7 @@ This sounds great but in practice it's often unnecessary (unless the dependency 
 
 Mock it or not depends is not a religion but should be a choice taking into account the stability and the speed of the dependency.
 
-##Speed
+## Speed
 
 *Compile suite* run several times per minute on a programmer local workstation. Real time when developing.
 *Commit suite* run on the CI/CD and takes longer.
