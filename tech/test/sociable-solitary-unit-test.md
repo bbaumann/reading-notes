@@ -19,7 +19,7 @@ The big difference : Unit.
 
 ## Solitary vs Sociable tests
 
-!(https://martinfowler.com/bliki/images/unitTest/isolate.png)
+![](https://martinfowler.com/bliki/images/unitTest/isolate.png)
 
 *Solitary* : Fault tolerant, test doubles for dependencies.
 This sounds great but in practice it's often unnecessary (unless the dependency is non-deterministic/slow - http calls, remote systems-).
