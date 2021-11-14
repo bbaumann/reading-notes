@@ -6,6 +6,5 @@
 
 
 ## To sum up
-* https://leaddev.com/managing-distributed-teams/seven-ways-help-your-team-connect-when-youre-apart
 * https://leaddev.com/personal-development/how-expand-your-scope-staff-plus-engineer
 * https://leaddev.com/career-paths-progression-promotion/management-isnt-promotion
