@@ -1,6 +1,6 @@
 # The Five Dysfunctions of an Engineering Team
 
-https://dev.to/thawkin3/the-five-dysfunctions-of-an-engineering-team-3a60
+https://dev.to/thawkin3/the-five-dysfunctions-of-an-engineering-team-3a60  
 Takeaway from the book [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.fr/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick M. Lencioni
 
 Teams are never perfect, it's fine.  
