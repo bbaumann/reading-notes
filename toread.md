@@ -13,4 +13,3 @@
 * https://dev.to/dvddpl/from-engineer-to-tech-lead-doubts-and-challenges-4n9e
 * https://leaddev.com/professional-development/finding-right-engineering-role-you
 * https://leaddev.com/team/how-do-engineers-learn-model-teaching-skills-knowledge-and-wisdom
-* https://leaddev.com/culture-engagement-motivation/cross-functional-collaboration-doesnt-have-be-nightmare
