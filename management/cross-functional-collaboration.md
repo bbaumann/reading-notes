@@ -1,6 +1,6 @@
 # Cross-functional collaboration doesn't have to be a nightmare
 
-https://leaddev.com/culture-engagement-motivation/cross-functional-collaboration-doesnt-have-be-nightmar  e
+https://leaddev.com/culture-engagement-motivation/cross-functional-collaboration-doesnt-have-be-nightmare
 Francis Shanahan
 > Humans are tribal – it’s in our DNA. Left alone, we naturally coalesce into groups that share similar beliefs and priorities and we are distrustful of those from the ‘outside’. So it is within organizations. Whether it’s by discipline or by interest, we are drawn to people who mirror our own tendencies. So when two teams, usually with different backgrounds and skill sets, come together to work towards a shared goal, naturally there is inertia and sometimes sparks fly!
 
