@@ -12,3 +12,4 @@ Notes of what I read, tech, management and others!
 ## Tech
 ### Tests
 1. [Solitary vs Sociable unit tests](tech/test/sociable-solitary-unit-test.md)
+2. [Tips for developers (and managers)](tech/tips.md)
