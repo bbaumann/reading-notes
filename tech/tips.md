@@ -2,7 +2,11 @@
 
 https://dev.to/ondrejsevcik/20-principles-i-learned-from-10-years-of-developing-software-5354
 
-1. **Be humble**** - No engineer in the world knows everything, the same applies to you.
+
+Ondrej Sevcik - https://ondrejsevcik.com/ - https://twitter.com/ondrejsevcik
+
+
+1. **Be humble** - No engineer in the world knows everything, the same applies to you.
 1. **Make it work, make it right** (and sometimes make it fast).
 1. **Optimize for change** - Prefer duplication over the wrong abstraction.
 1. **Always write tests** - If you're not writing tests, you're testing manually.
