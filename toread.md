@@ -14,3 +14,4 @@
 * https://leaddev.com/professional-development/finding-right-engineering-role-you
 * https://leaddev.com/team/how-do-engineers-learn-model-teaching-skills-knowledge-and-wisdom
 * https://medium.com/alan/what-we-learned-from-a-large-refactoring-85291cb4457c
+* https://techblog.pointsbet.com/a-structured-approach-to-designing-intent-based-apis-910ed1fc78f2
